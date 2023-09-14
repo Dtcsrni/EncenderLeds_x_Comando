@@ -1,4 +1,7 @@
 /*
+Erick Renato Vega Cerón
+Maestría en Internet de las Cosas
+        UAEH
 Este programa recibe dos valores enteros positivos por el puerto 
 serial: Pin y Estado.
 Pin es un numero entre 1 y 6.
